@@ -170,7 +170,7 @@ export default function LeadList({ refreshKey }) {
                     >
                       {convertingId === l._id
                         ? "Converting..."
-                        : "Convert"}
+                        : "Convert in Customer"}
                     </button>
                   )}
                 </div>
